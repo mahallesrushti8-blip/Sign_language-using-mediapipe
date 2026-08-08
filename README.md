@@ -1,4 +1,6 @@
 # Custom Sign Language Recognizer (OpenCV + MediaPipe)
+<img width="479" height="384" alt="image" src="https://github.com/user-attachments/assets/2db6973f-64c7-4524-b0bb-c5ded02ff755" />
+
 
 This project recognizes hand signs you define yourself, using your
 webcam. It works in 3 steps, run in order:
